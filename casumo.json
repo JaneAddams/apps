@@ -1,9 +1,9 @@
 {
   "app": {
     "title": "Casumo TicTacToe",
-    "imagePath": "https://raw.githubusercontent.com/JaneAddams/apps/master/tic-tac-toe-male-vs-female%5B1%5D.jpg",
-    "linkPath": "",
-    "linkAction": "#start",
+    "imagePath": "https://raw.githubusercontent.com/JaneAddams/apps/master/Casumo.jpg",
+    "linkPath": "https://www.casumo.com/en/let-me-in/?btag=658210_A7123EAF580C48A683F7118BF08987BB&AFFID=a_2180",
+    "linkAction": "#web",
     "afid": "NwG4mMRjJtB99j8Fahs9sm"
   }
 }
